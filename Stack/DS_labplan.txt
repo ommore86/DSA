@@ -4,8 +4,8 @@ PR 1 - Stack Using Arrays
 
 PR 2 - Applications of Stack
         - Parentheses Matching
-        - Conversion of Infix Expression to Postfix Expression
-        - Postfix Expression valuation
+#        - Conversion of Infix Expression to Postfix Expression
+#        - Postfix Expression valuation
 
 PR 3 - Linear Queue using Arrays
 

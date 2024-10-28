@@ -14,3 +14,4 @@
 - Singly linked list<br/>
 - Stack using linked list<br/>
 - Linear queue using linked list<br/>
+- Circular Linked list<br/>

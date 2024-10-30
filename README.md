@@ -9,6 +9,7 @@
 - Linear queue using array<br/>
 - Linear queue using linked list<br/>
 - Circular queue using array<br/>
+- Priority queue using array<br/>
 
 # Linked List
 - Singly linked list<br/>

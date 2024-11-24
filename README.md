@@ -18,3 +18,6 @@
 - Linear queue using linked list<br/>
 - Circular Linked list<br/>
 - Doubly Linked list<br/>
+
+# Trees
+- Binary Search Tree (BST)<br/>

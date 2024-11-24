@@ -21,3 +21,8 @@
 
 # Trees
 - Binary Search Tree (BST)<br/>
+- Expression Tree<br/>
+
+# Searching & Sorting
+- Binary Search<br/>
+- Hashing<br/>

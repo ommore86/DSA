@@ -3,7 +3,9 @@
 # Stack
 - Stack using array<br/>
 - stack using linked list<br/>
-- Parentheses matching
+- Parentheses matching<br/>
+- Infix to Postfix<br/>
+- Postfix Evaluation<br/>
 
 # Queues
 - Linear queue using array<br/>

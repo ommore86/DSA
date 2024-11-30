@@ -26,3 +26,9 @@
 # Searching & Sorting
 - Binary Search<br/>
 - Hashing<br/>
+- Selection Sort<br/>
+- Insertion Sort<br/>
+- Merge Sort<br/>
+- Quick Sort<br/>
+- Heap Sort<br/>
+- Bucket Sort
